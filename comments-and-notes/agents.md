@@ -19,3 +19,4 @@ Comments and Notes
 - add-threaded-comment-with-excel-in-a-workbook-loaded-in-xlsx-format.cs
 - add-threaded-comment-using-asposecells-in-a-workbook-loaded-in-xlsx-format.cs
 - read-threaded-comments-with-excel-in-a-workbook-loaded-in-xlsx-format.cs
+- read-threaded-comments-using-asposecells-in-a-workbook-loaded-in-xlsx-format.cs
