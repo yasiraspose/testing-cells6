@@ -21,3 +21,4 @@ Comments and Notes
 - read-threaded-comments-with-excel-in-a-workbook-loaded-in-xlsx-format.cs
 - read-threaded-comments-using-asposecells-in-a-workbook-loaded-in-xlsx-format.cs
 - read-created-time-of-threaded-comments-in-a-workbook-loaded-in-xlsx-format.cs
+- edit-threaded-comment-with-excel-in-a-workbook-loaded-in-xlsx-format.cs
