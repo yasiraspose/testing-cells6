@@ -24,3 +24,4 @@ Comments and Notes
 - edit-threaded-comment-with-excel-in-a-workbook-loaded-in-xlsx-format.cs
 - edit-threaded-comment-using-asposecells-in-a-workbook-loaded-in-xlsx-format.cs
 - sample-code-in-a-workbook-loaded-in-xlsx-format.cs
+- console-output-in-a-workbook-loaded-in-xlsx-format.cs
