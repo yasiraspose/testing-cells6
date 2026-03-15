@@ -28,3 +28,4 @@ Comments and Notes
 - change-text-direction-of-the-comment-in-a-workbook-loaded-in-xlsx-format.cs
 - how-to-change-the-comment-font-color-in-a-workbook-loaded-in-xlsx-format.cs
 - how-to-change-background-in-comment-in-excel-in-a-workbook-loaded-in-xlsx-format.cs
+- how-to-change-color-in-comment-in-excel-in-a-workbook-loaded-in-xlsx-format.cs
