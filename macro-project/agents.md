@@ -9,3 +9,4 @@ Macro Project
 - programmatically-access-and-modify-vba-modules-within-an-excel-macroenabled-work.cs
 - manipulate-the-vba-modules-of-an-excel-macroenabled-workbook-saved-in-xlsx-forma.cs
 - add-edit-or-remove-vba-modules-in-an-xlsm-workbook-programmatically-using-the-pr.cs
+- manipulate-the-vba-modules-of-an-excel-macro-enabled-workbook-while-operating-wi.cs
