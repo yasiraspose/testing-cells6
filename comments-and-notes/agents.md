@@ -10,3 +10,4 @@ Comments and Notes
 - remove-threaded-comments-with-excel-in-a-workbook-loaded-in-xlsx-format.cs
 - remove-threaded-comments-using-asposecells-in-a-workbook-loaded-in-xlsx-format.cs
 - click-the-new-comment-button-in-a-workbook-loaded-in-xlsx-format.cs
+- click-the-new-comment-option-in-a-workbook-loaded-in-xlsx-format.cs
