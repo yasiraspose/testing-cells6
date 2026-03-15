@@ -26,3 +26,4 @@ Comments and Notes
 - sample-code-in-a-workbook-loaded-in-xlsx-format.cs
 - console-output-in-a-workbook-loaded-in-xlsx-format.cs
 - change-text-direction-of-the-comment-in-a-workbook-loaded-in-xlsx-format.cs
+- how-to-change-the-comment-font-color-in-a-workbook-loaded-in-xlsx-format.cs
