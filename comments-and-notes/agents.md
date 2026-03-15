@@ -14,3 +14,4 @@ Comments and Notes
 - rightclick-on-the-cell-where-you-want-to-insert-the-comment-in-a-workbook-loaded.cs
 - threaded-comments-in-a-workbook-loaded-in-xlsx-format.cs
 - add-threaded-comments-in-a-workbook-loaded-in-xlsx-format.cs
+- read-threaded-comments-in-a-workbook-loaded-in-xlsx-format.cs
