@@ -61,3 +61,4 @@ Macro Project
 - detect-whether-a-vba-project-is-protected-by-inspecting-its-csv-representation-a.cs
 - determine-vba-project-protection-status-in-c-and-output-the-result-using-tsv-for.cs
 - determine-programmatically-via-c-whether-a-vba-project-is-passwordprotected-usin.cs
+- check-whether-a-vba-project-is-passwordprotected-using-c-and-the-tab-file-format.cs
