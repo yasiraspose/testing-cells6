@@ -17,3 +17,4 @@ Macro Project
 - integrate-a-vba-module-into-a-c-application-by-embedding-htmlformatted-code-with.cs
 - programmatically-insert-a-vba-module-into-a-workbook-via-c-specifying-the-module.cs
 - integrate-a-vba-module-into-a-c-solution-by-providing-its-definition-in-xml-form.cs
+- programmatically-insert-a-vba-module-into-a-workbook-using-c-and-the-spreadsheet.cs
