@@ -14,3 +14,4 @@ Globalization and Localization
 - localize-spreadsheet-by-exploring-possible-usage-scenarios-for-error-and-boolean.cs
 - localize-spreadsheet-by-running-sample-code-for-error-and-boolean-value-localiza.cs
 - localize-spreadsheet-by-implementing-subtotal-and-grand-total-label-localization.cs
+- localize-spreadsheet-by-exploring-possible-usage-scenarios-for-subtotal-and-gran.cs
