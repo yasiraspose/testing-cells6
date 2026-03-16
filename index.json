@@ -1,0 +1,18 @@
+{
+  "product": "Aspose.Cells",
+  "agent": "Aspose.Cells Product Agent",
+  "language": "csharp",
+  "framework": ".NET",
+  "examples": [
+    {
+      "category": "open-workbook",
+      "file": "open-workbook-for-writing-a-large-excel-file-example-using-lightcells-api.cs",
+      "title": "Open Workbook for writing a large Excel file (example) using LightCells API."
+    },
+    {
+      "category": "open-workbook",
+      "file": "open-workbook-with-memory-optimization-for-large-datasets.cs",
+      "title": "Open Workbook with memory optimization for large datasets."
+    }
+  ]
+}
