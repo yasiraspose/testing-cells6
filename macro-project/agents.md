@@ -31,3 +31,4 @@ Macro Project
 - apply-a-password-to-secure-the-vba-project-within-an-xls-workbook-restricting-un.cs
 - apply-a-password-to-protect-the-vba-project-inside-an-xlsx-workbook-ensuring-res.cs
 - apply-a-password-to-secure-the-vba-project-within-an-xlsm-workbook-preventing-un.cs
+- apply-a-password-to-secure-the-vba-project-of-an-excel-workbook-saved-in-xltx-fo.cs
