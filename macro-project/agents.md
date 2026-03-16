@@ -15,3 +15,4 @@ Macro Project
 - handle-vba-modules-within-an-excel-macro-enabled-workbook-when-exporting-to-or-i.cs
 - add-a-vba-module-to-a-workbook-via-c-using-a-txt-file-as-the-source.cs
 - integrate-a-vba-module-into-a-c-application-by-embedding-htmlformatted-code-with.cs
+- programmatically-insert-a-vba-module-into-a-workbook-via-c-specifying-the-module.cs
