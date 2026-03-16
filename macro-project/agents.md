@@ -48,3 +48,4 @@ Macro Project
 - provide-demonstrative-code-snippets-illustrating-how-to-create-read-and-manipula.cs
 - provide-example-code-demonstrating-how-to-work-with-oxps-files-in-a-net-environm.cs
 - apply-a-password-to-the-vba-project-of-an-excel-workbook-using-c-and-output-the-.cs
+- apply-a-password-to-an-excel-workbooks-vba-project-via-c-code-utilizing-json-to-.cs
