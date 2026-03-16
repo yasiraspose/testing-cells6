@@ -50,3 +50,4 @@ Macro Project
 - apply-a-password-to-the-vba-project-of-an-excel-workbook-using-c-and-output-the-.cs
 - apply-a-password-to-an-excel-workbooks-vba-project-via-c-code-utilizing-json-to-.cs
 - provide-example-source-code-demonstrating-how-to-read-manipulate-and-save-docume.cs
+- provide-a-jsonformatted-code-snippet-illustrating-the-required-functionality-and.cs
