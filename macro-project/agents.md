@@ -27,3 +27,4 @@ Macro Project
 - update-the-existing-vba-macro-or-c-script-to-generate-manipulate-and-output-xps-.cs
 - implement-advanced-json-based-functionalities-enabling-complex-data-manipulation.cs
 - explore-advanced-functionalities-for-processing-xls-files-including-complex-data.cs
+- implement-advanced-functionality-for-handling-xlsx-files-within-net-applications.cs
