@@ -74,3 +74,4 @@ Macro Project
 - detect-whether-a-vba-project-embedded-in-a-pdf-file-is-passwordprotected-using-c.cs
 - determine-whether-a-vba-project-is-protected-via-c-and-output-the-result-in-json.cs
 - determine-whether-the-vba-project-in-an-xls-workbook-is-protected-and-locked-for.cs
+- determine-whether-the-vba-project-in-an-xlsx-workbook-is-protected-and-locked-fo.cs
