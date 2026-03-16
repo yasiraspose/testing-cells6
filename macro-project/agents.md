@@ -54,3 +54,4 @@ Macro Project
 - determine-programmatically-at-runtime-whether-the-vba-project-embedded-within-an.cs
 - determine-whether-the-vba-project-embedded-in-an-xlsx-format-workbook-is-passwor.cs
 - determine-whether-the-vba-project-embedded-in-an-xlsm-workbook-is-passwordprotec.cs
+- implement-a-routine-to-programmatically-check-if-the-vba-project-embedded-in-an-.cs
