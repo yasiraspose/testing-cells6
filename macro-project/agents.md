@@ -30,3 +30,4 @@ Macro Project
 - implement-advanced-functionality-for-handling-xlsx-files-within-net-applications.cs
 - apply-a-password-to-secure-the-vba-project-within-an-xls-workbook-restricting-un.cs
 - apply-a-password-to-protect-the-vba-project-inside-an-xlsx-workbook-ensuring-res.cs
+- apply-a-password-to-secure-the-vba-project-within-an-xlsm-workbook-preventing-un.cs
