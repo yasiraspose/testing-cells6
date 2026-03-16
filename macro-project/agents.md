@@ -24,3 +24,4 @@ Macro Project
 - convert-the-existing-vba-macro-to-c-code-that-reads-and-writes-data-using-the-di.cs
 - update-the-c-macro-to-manipulate-dbf-files-by-integrating-or-converting-the-exis.cs
 - refactor-the-existing-vba-macro-into-c-code-that-processes-files-in-prn-format.cs
+- update-the-existing-vba-macro-or-c-script-to-generate-manipulate-and-output-xps-.cs
