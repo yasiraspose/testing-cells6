@@ -52,3 +52,4 @@ Macro Project
 - provide-example-source-code-demonstrating-how-to-read-manipulate-and-save-docume.cs
 - provide-a-jsonformatted-code-snippet-illustrating-the-required-functionality-and.cs
 - determine-programmatically-at-runtime-whether-the-vba-project-embedded-within-an.cs
+- determine-whether-the-vba-project-embedded-in-an-xlsx-format-workbook-is-passwor.cs
