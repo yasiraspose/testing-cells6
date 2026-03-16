@@ -13,3 +13,4 @@ Macro Project
 - create-edit-and-extract-vba-modules-in-an-xltm-workbook-programmatically-using-n.cs
 - add-modify-or-delete-vba-modules-and-procedures-within-an-xlsb-macroenabled-work.cs
 - handle-vba-modules-within-an-excel-macro-enabled-workbook-when-exporting-to-or-i.cs
+- add-a-vba-module-to-a-workbook-via-c-using-a-txt-file-as-the-source.cs
