@@ -21,3 +21,4 @@ Macro Project
 - refactor-the-existing-vba-macro-into-c-code-implementing-the-specified-numbers-f.cs
 - implement-changes-to-vba-or-macro-logic-within-a-c-application-utilizing-the-sxc.cs
 - update-vba-code-or-macro-logic-within-a-c-application-to-process-fods-files.cs
+- convert-the-existing-vba-macro-to-c-code-that-reads-and-writes-data-using-the-di.cs
