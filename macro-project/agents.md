@@ -35,3 +35,4 @@ Macro Project
 - apply-a-password-to-securely-protect-the-vba-project-within-an-xltm-workbook-pre.cs
 - apply-a-password-to-secure-the-vba-project-within-an-xlsb-workbook-restricting-u.cs
 - apply-a-password-to-secure-the-vba-project-within-an-excel-workbook-exported-as-.cs
+- apply-password-protection-to-an-excel-workbooks-vba-project-sourcing-the-passwor.cs
