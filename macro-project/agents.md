@@ -67,3 +67,4 @@ Macro Project
 - detect-whether-a-vba-project-embedded-in-an-mhtml-file-is-protected-using-c.cs
 - determine-whether-a-vba-project-is-protected-by-analyzing-its-xml-representation.cs
 - determine-whether-a-vba-project-is-protected-by-analyzing-the-spreadsheetml-file.cs
+- generate-console-output-saved-as-a-pdf-document-preserving-formatting-layout-and.cs
