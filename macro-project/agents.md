@@ -18,3 +18,4 @@ Macro Project
 - programmatically-insert-a-vba-module-into-a-workbook-via-c-specifying-the-module.cs
 - integrate-a-vba-module-into-a-c-solution-by-providing-its-definition-in-xml-form.cs
 - programmatically-insert-a-vba-module-into-a-workbook-using-c-and-the-spreadsheet.cs
+- refactor-the-existing-vba-macro-into-c-code-implementing-the-specified-numbers-f.cs
