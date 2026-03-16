@@ -47,3 +47,4 @@ Macro Project
 - provide-example-code-demonstrating-how-to-read-and-write-data-using-the-dbf-file.cs
 - provide-demonstrative-code-snippets-illustrating-how-to-create-read-and-manipula.cs
 - provide-example-code-demonstrating-how-to-work-with-oxps-files-in-a-net-environm.cs
+- apply-a-password-to-the-vba-project-of-an-excel-workbook-using-c-and-output-the-.cs
