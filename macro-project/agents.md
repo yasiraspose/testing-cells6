@@ -26,3 +26,4 @@ Macro Project
 - refactor-the-existing-vba-macro-into-c-code-that-processes-files-in-prn-format.cs
 - update-the-existing-vba-macro-or-c-script-to-generate-manipulate-and-output-xps-.cs
 - implement-advanced-json-based-functionalities-enabling-complex-data-manipulation.cs
+- explore-advanced-functionalities-for-processing-xls-files-including-complex-data.cs
