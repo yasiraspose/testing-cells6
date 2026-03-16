@@ -22,3 +22,4 @@ Macro Project
 - implement-changes-to-vba-or-macro-logic-within-a-c-application-utilizing-the-sxc.cs
 - update-vba-code-or-macro-logic-within-a-c-application-to-process-fods-files.cs
 - convert-the-existing-vba-macro-to-c-code-that-reads-and-writes-data-using-the-di.cs
+- update-the-c-macro-to-manipulate-dbf-files-by-integrating-or-converting-the-exis.cs
