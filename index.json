@@ -1,0 +1,12 @@
+{
+  "product": "Aspose.Cells",
+  "language": "csharp",
+  "framework": ".NET",
+  "examples": [
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-implementing-cellformulalocal-similar-to-excel-vba-range.cs",
+      "title": "Localize spreadsheet by implementing Cell.FormulaLocal similar to Excel VBA Range.FormulaLocal using a workbook loaded in XLSX format."
+    }
+  ]
+}
