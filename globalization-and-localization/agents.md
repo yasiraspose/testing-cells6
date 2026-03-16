@@ -7,3 +7,4 @@ Globalization and Localization
 ## Examples
 
 - localize-spreadsheet-by-implementing-cellformulalocal-similar-to-excel-vba-range.cs
+- localize-spreadsheet-by-exploring-possible-usage-scenarios-for-formulalocal-loca.cs
