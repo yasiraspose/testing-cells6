@@ -28,3 +28,4 @@ Macro Project
 - implement-advanced-json-based-functionalities-enabling-complex-data-manipulation.cs
 - explore-advanced-functionalities-for-processing-xls-files-including-complex-data.cs
 - implement-advanced-functionality-for-handling-xlsx-files-within-net-applications.cs
+- apply-a-password-to-secure-the-vba-project-within-an-xls-workbook-restricting-un.cs
