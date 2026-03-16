@@ -63,3 +63,4 @@ Macro Project
 - determine-programmatically-via-c-whether-a-vba-project-is-passwordprotected-usin.cs
 - check-whether-a-vba-project-is-passwordprotected-using-c-and-the-tab-file-format.cs
 - determine-whether-a-vba-project-is-protected-using-c-and-generate-the-status-as-.cs
+- determine-programmatically-via-c-whether-the-vba-project-embedded-in-an-mht-file.cs
