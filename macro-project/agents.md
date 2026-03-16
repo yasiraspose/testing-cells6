@@ -37,3 +37,4 @@ Macro Project
 - apply-a-password-to-secure-the-vba-project-within-an-excel-workbook-exported-as-.cs
 - apply-password-protection-to-an-excel-workbooks-vba-project-sourcing-the-passwor.cs
 - apply-a-password-to-an-excel-workbooks-vba-project-in-c-retrieving-the-password-.cs
+- apply-a-password-to-an-excel-workbooks-vba-project-in-c-using-a-txt-file-for-the.cs
