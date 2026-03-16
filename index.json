@@ -37,6 +37,11 @@
       "category": "globalization-and-localization",
       "file": "localize-spreadsheet-by-running-sample-code-for-error-and-boolean-value-localiza.cs",
       "title": "Localize spreadsheet by running sample code for error and Boolean value localization using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-implementing-subtotal-and-grand-total-label-localization.cs",
+      "title": "Localize spreadsheet by implementing subtotal and grand total label localization in other languages using a workbook loaded in XLSX format."
     }
   ]
 }
