@@ -72,3 +72,4 @@ Macro Project
 - programmatically-detect-whether-the-vba-project-embedded-within-a-pdf-document-i.cs
 - determine-whether-a-vba-project-is-protected-and-return-the-result-in-json-forma.cs
 - detect-whether-a-vba-project-embedded-in-a-pdf-file-is-passwordprotected-using-c.cs
+- determine-whether-a-vba-project-is-protected-via-c-and-output-the-result-in-json.cs
