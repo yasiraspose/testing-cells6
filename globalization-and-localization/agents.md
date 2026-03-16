@@ -20,3 +20,4 @@ Globalization and Localization
 - localize-spreadsheet-by-exploring-possible-usage-scenarios-for-globalizationsett.cs
 - localize-spreadsheet-by-reviewing-introduction-to-globalizationsettings-class-fo.cs
 - localize-spreadsheet-by-creating-custom-labels-for-subtotals-using-globalization.cs
+- localize-spreadsheet-by-setting-custom-text-for-the-other-label-of-a-pie-chart-u.cs

@@ -72,6 +72,11 @@
       "category": "globalization-and-localization",
       "file": "localize-spreadsheet-by-creating-custom-labels-for-subtotals-using-globalization.cs",
       "title": "Localize spreadsheet by creating custom labels for subtotals using GlobalizationSettings with a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-setting-custom-text-for-the-other-label-of-a-pie-chart-u.cs",
+      "title": "Localize spreadsheet by setting custom text for the other label of a pie chart using GlobalizationSettings with a workbook loaded in XLSX format."
     }
   ]
 }
