@@ -14,3 +14,4 @@ Macro Project
 - add-modify-or-delete-vba-modules-and-procedures-within-an-xlsb-macroenabled-work.cs
 - handle-vba-modules-within-an-excel-macro-enabled-workbook-when-exporting-to-or-i.cs
 - add-a-vba-module-to-a-workbook-via-c-using-a-txt-file-as-the-source.cs
+- integrate-a-vba-module-into-a-c-application-by-embedding-htmlformatted-code-with.cs
