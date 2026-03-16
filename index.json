@@ -1,0 +1,12 @@
+{
+  "product": "Aspose.Cells",
+  "language": "csharp",
+  "framework": ".NET",
+  "examples": [
+    {
+      "category": "conversion",
+      "file": "convert-an-excel-workbook-to-pdf-using-xlsx-as-the-input-and-pdf-as-the-output.cs",
+      "title": "Convert an Excel workbook to PDF using XLSX as the input and PDF as the output."
+    }
+  ]
+}
