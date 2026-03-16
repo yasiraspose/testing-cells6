@@ -52,6 +52,11 @@
       "category": "globalization-and-localization",
       "file": "localize-spreadsheet-by-running-sample-code-for-subtotal-and-grand-total-label-l.cs",
       "title": "Localize spreadsheet by running sample code for subtotal and grand total label localization using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-using-globalizationsettings-class-to-customize-subtotal-.cs",
+      "title": "Localize spreadsheet by using GlobalizationSettings class to customize subtotal labels and other label of pie chart using a workbook loaded in XLSX format."
     }
   ]
 }

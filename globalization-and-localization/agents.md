@@ -16,3 +16,4 @@ Globalization and Localization
 - localize-spreadsheet-by-implementing-subtotal-and-grand-total-label-localization.cs
 - localize-spreadsheet-by-exploring-possible-usage-scenarios-for-subtotal-and-gran.cs
 - localize-spreadsheet-by-running-sample-code-for-subtotal-and-grand-total-label-l.cs
+- localize-spreadsheet-by-using-globalizationsettings-class-to-customize-subtotal-.cs
