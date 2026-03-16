@@ -66,3 +66,4 @@ Macro Project
 - determine-programmatically-via-c-whether-the-vba-project-embedded-in-an-mht-file.cs
 - detect-whether-a-vba-project-embedded-in-an-mhtml-file-is-protected-using-c.cs
 - determine-whether-a-vba-project-is-protected-by-analyzing-its-xml-representation.cs
+- determine-whether-a-vba-project-is-protected-by-analyzing-the-spreadsheetml-file.cs
