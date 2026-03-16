@@ -69,3 +69,4 @@ Macro Project
 - determine-whether-a-vba-project-is-protected-by-analyzing-the-spreadsheetml-file.cs
 - generate-console-output-saved-as-a-pdf-document-preserving-formatting-layout-and.cs
 - write-data-to-the-console-serialized-as-a-jsonformatted-string-ensuring-the-outp.cs
+- programmatically-detect-whether-the-vba-project-embedded-within-a-pdf-document-i.cs
