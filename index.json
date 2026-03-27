@@ -1,0 +1,82 @@
+{
+  "product": "Aspose.Cells",
+  "language": "csharp",
+  "framework": ".NET",
+  "examples": [
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-implementing-cellformulalocal-similar-to-excel-vba-range.cs",
+      "title": "Localize spreadsheet by implementing Cell.FormulaLocal similar to Excel VBA Range.FormulaLocal using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-exploring-possible-usage-scenarios-for-formulalocal-loca.cs",
+      "title": "Localize spreadsheet by exploring possible usage scenarios for FormulaLocal localization using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-running-sample-code-for-cellformulalocal-implementation-.cs",
+      "title": "Localize spreadsheet by running sample code for Cell.FormulaLocal implementation using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-reviewing-console-output-of-cellformulalocal-implementat.cs",
+      "title": "Localize spreadsheet by reviewing console output of Cell.FormulaLocal implementation using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-implementing-error-and-boolean-value-localization-for-ru.cs",
+      "title": "Localize spreadsheet by implementing error and Boolean value localization for Russian or other languages using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-exploring-possible-usage-scenarios-for-error-and-boolean.cs",
+      "title": "Localize spreadsheet by exploring possible usage scenarios for error and Boolean value localization using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-running-sample-code-for-error-and-boolean-value-localiza.cs",
+      "title": "Localize spreadsheet by running sample code for error and Boolean value localization using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-implementing-subtotal-and-grand-total-label-localization.cs",
+      "title": "Localize spreadsheet by implementing subtotal and grand total label localization in other languages using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-exploring-possible-usage-scenarios-for-subtotal-and-gran.cs",
+      "title": "Localize spreadsheet by exploring possible usage scenarios for subtotal and grand total label localization using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-running-sample-code-for-subtotal-and-grand-total-label-l.cs",
+      "title": "Localize spreadsheet by running sample code for subtotal and grand total label localization using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-using-globalizationsettings-class-to-customize-subtotal-.cs",
+      "title": "Localize spreadsheet by using GlobalizationSettings class to customize subtotal labels and other label of pie chart using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-exploring-possible-usage-scenarios-for-globalizationsett.cs",
+      "title": "Localize spreadsheet by exploring possible usage scenarios for GlobalizationSettings customization of subtotal and pie chart other labels using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-reviewing-introduction-to-globalizationsettings-class-fo.cs",
+      "title": "Localize spreadsheet by reviewing introduction to GlobalizationSettings class for localization purposes using a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-creating-custom-labels-for-subtotals-using-globalization.cs",
+      "title": "Localize spreadsheet by creating custom labels for subtotals using GlobalizationSettings with a workbook loaded in XLSX format."
+    },
+    {
+      "category": "globalization-and-localization",
+      "file": "localize-spreadsheet-by-setting-custom-text-for-the-other-label-of-a-pie-chart-u.cs",
+      "title": "Localize spreadsheet by setting custom text for the other label of a pie chart using GlobalizationSettings with a workbook loaded in XLSX format."
+    }
+  ]
+}
